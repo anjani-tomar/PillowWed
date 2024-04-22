@@ -1,0 +1,59 @@
+.hero-section {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: #b712b412;
+}
+
+.image {
+    /* margin-top: 50px; */
+}
+
+.bg-img {
+    background-color: rgba(50, 9, 84, 0.65);
+    width: 425px;
+}
+
+.bg-img img {
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+
+.paragraph {
+    margin-top: 100px;
+    max-width: 470px;
+    margin-left: 60px;
+}
+
+.paragraph p {
+    font-size: 28px;
+    color: rgba(148, 86, 199, 0.961);
+    text-align: center;
+}
+
+.paragraph h1 {
+    font-size: 40px;
+    text-align: left;
+    margin-left: 45px;
+}
+
+.link-btn {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.link-btn .btn p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 20px 40px 20px 40px;
+    border: 1px solid rgb(182, 140, 221);
+    border-radius: 5px;
+    transition: all .3s ease;
+}
+
+.btn p {}
+
+.link-btn .btn:hover p {
+    background-color: rgb(182, 140, 221);
+    color: white;
+}
